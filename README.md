@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hoi I'm Ezat, or more commonly known as Valzur! 👋
 
 
