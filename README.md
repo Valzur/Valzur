@@ -27,7 +27,6 @@ I play Valorant :'D
 Unity Engine,
 C#,
 Unreal Engine,
-SFML,
 C++,
 Flutter,
 Dart
