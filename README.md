@@ -1,38 +1,23 @@
-# Hoi I'm Ezat, or more commonly known as Valzur! 👋
-
-
 ## 🚀 About Me
-I graduated from Zewail City of Science & Technology, Aerospace Engineering on 2022.. but had already decided game dev is my thing since 2020.
-I generally love programming, and i've been using C# for scripting in the Unity Game Engine since 2019.
-I recently started experimenting with C++ on my Pinball original project and the Remake version.
-I also have a bit of experience with Flutter and dart.
+I graduated with an aerospace engineering degree, but decided game-dev was my thing.
+I'm currently working for The Badnomads on The LastLoremaster as a Unity Dev.
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on 3 projects:
-- Pinball Remake (in C++)
-- Shooter Game (in UE4)
-- Portfolio webpage (in Flutter)
+## Projects to checkout:
+- [Elem](https://github.com/Screamerzu/Roots)
+- [Complex AI](https://github.com/Valzur/Complex-AI)
+- [FPS](https://github.com/Valzur/FPS-game)
 
-🧠 I'm currently learning Unreal Engine, and experimenting with the engine and the work flow generally.
+Psss.. i'm working on this too, just don't tell anyone~
+![A Cell Story](https://github.com/Valzur/Valzur/assets/58498980/9888cd91-1a19-4ee2-ba34-4082aa8f9dbc)
 
-👯‍♀️ I'm open to collaborate in any Game Jams
+## Game Engine Experience
+Unity Engine, Unreal Engine
 
-📫 How to reach me: you can either contact me on my Linked in, or through email "eldohimie@gmail.com"
+## Programming Languages
+C#, C++, Dart, Matlab <i>(This was the reason i'm here in the first place, so yes.. it is worth showing)</i>
 
-😄 Pronouns: He, Him.
-
-⚡️ Fun fact... 
-I play Valorant :'D
-## 🛠 Skills
-Unity Engine,
-C#,
-Unreal Engine,
-C++,
-Flutter,
-Dart
-
+## Game-specific tags
+System Architecture Design, UI, Ability System, Game Engine Tools
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezat/)
-
-![Logo](https://i.ibb.co/wWpzTnk/Light-bg-LOGO.png)
